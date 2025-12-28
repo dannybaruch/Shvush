@@ -1,0 +1,7 @@
+{
+  "name": "Copy of שבו\"ש - ON",
+  "description": "מערכת ניהול שבושים\\יות במוסדות תורניים",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
